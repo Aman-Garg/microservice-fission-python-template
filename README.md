@@ -16,10 +16,10 @@
 	  -d '{
 	  "numbers": [
 	  	{ 
-	      "number1": 1
+	      "number": 1
 	    },
 	    {
-	      "number2": 2
+	      "number": 2
 	    }
 	  ]
 	}'
